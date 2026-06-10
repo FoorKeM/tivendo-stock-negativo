@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# PyInstaller
+build/
+dist/
+portable/
+*.spec.bak
+
+# Local application data and secrets
+credenciales.json
+descargas/
+diagnosticos/
+ajustes/
+*.log
+
+# Editors and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
